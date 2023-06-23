@@ -1,0 +1,44 @@
+#item,#action, #sno, #desc{
+    background-color:blueviolet;
+    color:white;
+    outline: auto;
+    outline-offset: 0cm;
+}
+h1{
+font-family:Georgia;
+color:white;
+}
+
+body{
+    background-color: black;
+}
+
+.text-center{
+    background-color:blueviolet;
+    color:white;
+}
+
+.form-label{
+    color:white;
+}
+
+#emailHelp{
+    color:white;
+}
+
+.my-4{
+  color:white;
+}
+
+#add,#clear{
+    background-color: blueviolet;
+    
+    text-decoration: solid;
+    font-weight: bolder;
+    
+}
+#deleted{
+    background-color: blueviolet;
+    font-weight: bolder; 
+}
+ 
